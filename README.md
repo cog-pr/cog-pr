@@ -2,12 +2,8 @@
 
   <img src="./assets/profile-header.svg" width="100%" alt="cog-pr — シアンとパープルのネオンカラーのプロフィールバナー">
 
-  <h1>まを / cog-pr 👋</h1>
+  <h1>まを / 中野広翔</h1>
 
-  <p>
-    機械学習とかやります。<br>
-    GitHub プロフィールへようこそ。
-  </p>
 
   <p>
     <a href="https://github.com/cog-pr?tab=repositories">
@@ -27,7 +23,7 @@
     <img src="https://img.shields.io/badge/Machine%20Learning-7c3aed?style=flat-square" alt="Machine Learning">
   </p>
 
-  <h3>⚡ GitHub Activity</h3>
+  <h3>GitHub Activity</h3>
 
   <p>
     <a href="https://github.com/cog-pr?tab=overview">
@@ -40,7 +36,6 @@
 
   <img src="./assets/profile-footer.svg" width="100%" alt="">
 
-  <p><sub>Thanks for stopping by ✨</sub></p>
 
 </div>
 

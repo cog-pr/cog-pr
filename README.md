@@ -20,7 +20,6 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=222222" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Machine%20Learning-7c3aed?style=flat-square" alt="Machine Learning">
   </p>
 
   <h3>GitHub Activity</h3>

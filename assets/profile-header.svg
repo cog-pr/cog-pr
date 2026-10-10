@@ -36,9 +36,8 @@
     <g font-family="'Segoe UI', Arial, sans-serif">
       <circle cx="57" cy="55" r="4" fill="#22d3ee"/>
       <text x="72" y="60" fill="#a5b4fc" font-size="13" font-weight="600" letter-spacing="3">WELCOME TO MY GITHUB</text>
-      <text x="48" y="179" fill="#f0f6fc" font-size="104" font-weight="750" letter-spacing="-5">cog-pr<tspan fill="#22d3ee">.</tspan></text>
-      <text x="52" y="224" fill="#a5b4fc" font-size="16" letter-spacing="2">MACHINE LEARNING / CODE / IDEAS</text>
-      <text x="52" y="288" fill="#94a3b8" font-size="12" letter-spacing="2">A SPACE FOR CODE &amp; CURIOSITY</text>
+      <text x="48" y="179" fill="#f0f6fc" font-size="104" font-weight="750" letter-spacing="-5">mawo<tspan fill="#22d3ee">.</tspan>dev</text>
+      <text x="52" y="224" fill="#a5b4fc" font-size="16" letter-spacing="2">Chiba Tech / MACHINE LEARNING</text>
       <text x="910" y="288" fill="#a78bfa" font-size="12" letter-spacing="2" text-anchor="end">&lt; / &gt;</text>
     </g>
 

@@ -14,7 +14,7 @@
     </a>
   </p>
 
-  <h3>Code</h3>
+  <h3>Language</h3>
 
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">

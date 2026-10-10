@@ -26,7 +26,7 @@
 
   <p>
     <a href="https://github.com/cog-pr?tab=overview">
-      <img src="https://github-stats-extended.vercel.app/api?username=cog-pr&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=c4b5fd&amp;icon_color=22d3ee&amp;text_color=cbd5e1&amp;border_radius=16&amp;disable_animations=true" width="430" alt="cog-pr の公開 GitHub 統計">
+      <img src="https://github-stats-extended.vercel.app/api?username=cog-pr&amp;custom_title=GitHub%20Stats&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=c4b5fd&amp;icon_color=22d3ee&amp;text_color=cbd5e1&amp;border_radius=16&amp;disable_animations=true" width="430" alt="cog-pr の公開 GitHub 統計">
     </a>
     <a href="https://github.com/cog-pr?tab=repositories">
       <img src="https://github-stats-extended.vercel.app/api/top-langs?username=cog-pr&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=c4b5fd&amp;text_color=cbd5e1&amp;border_radius=16&amp;disable_animations=true" width="330" alt="cog-pr の公開リポジトリで使われている言語">
